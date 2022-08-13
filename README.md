@@ -36,7 +36,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ## ⚙️ Passo a passo para execução do teste
 
-Para executar os testes você tem 3 possiveis formas, sendo elas:
+Para executar os testes você tem 2 possiveis formas, sendo elas:
 
 *1. Executar com o plugin:* Para executar dessa forma você deve abrir a pasta src/test/features/ nesta  pasta há diversos arquivos .feature, esses arquivos são executaveis, bastar clicar no runner.
 
