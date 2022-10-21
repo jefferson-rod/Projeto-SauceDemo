@@ -42,5 +42,4 @@ Para executar os testes você tem 2 possiveis formas, sendo elas:
 
 *2. Executar com Runner do JUnit:* Para executar dessa forma você deve abrir a pasta src/test/runner/ nesta  pasta há uma classe, ao executar ela o teste será executado.
 
-## 👀 Observabilidade e métricas
 
