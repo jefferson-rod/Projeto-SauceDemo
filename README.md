@@ -32,6 +32,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ## 🔎 Observações
 
+- Todas as pastas e códigos encontram-se na branch master. 
 
 
 ## ⚙️ Passo a passo para execução do teste
